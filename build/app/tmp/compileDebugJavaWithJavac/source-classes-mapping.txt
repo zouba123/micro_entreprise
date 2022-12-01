@@ -1,0 +1,6 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/demo/accountingapp/MainActivity.java
+ com.ecoplus.gestion.MainActivity
+com/ecoplus/gestion/BuildConfig.java
+ com.ecoplus.gestion.BuildConfig

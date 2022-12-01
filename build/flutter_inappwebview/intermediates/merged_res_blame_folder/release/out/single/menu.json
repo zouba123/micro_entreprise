@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\ziedh\\OneDrive\\Bureau\\accounting-app\\micro_entreprise\\folder\\micro_entreprise\\build\\flutter_inappwebview\\intermediates\\res\\merged\\release\\menu\\example_menu2.xml",
+        "source": "C:\\Users\\ziedh\\.gradle\\caches\\transforms-2\\files-2.1\\3f9ff9878972e1354af0e307a83a2e54\\core-1.7.0\\res\\menu\\example_menu2.xml"
+    },
+    {
+        "merged": "C:\\Users\\ziedh\\OneDrive\\Bureau\\accounting-app\\micro_entreprise\\folder\\micro_entreprise\\build\\flutter_inappwebview\\intermediates\\res\\merged\\release\\menu\\example_menu.xml",
+        "source": "C:\\Users\\ziedh\\.gradle\\caches\\transforms-2\\files-2.1\\3f9ff9878972e1354af0e307a83a2e54\\core-1.7.0\\res\\menu\\example_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\ziedh\\OneDrive\\Bureau\\accounting-app\\micro_entreprise\\folder\\micro_entreprise\\build\\flutter_inappwebview\\intermediates\\res\\merged\\release\\menu\\menu_main.xml",
+        "source": "C:\\src\\flutter\\.pub-cache\\hosted\\pub.dartlang.org\\flutter_inappwebview-5.4.3+7\\android\\src\\main\\res\\menu\\menu_main.xml"
+    }
+]

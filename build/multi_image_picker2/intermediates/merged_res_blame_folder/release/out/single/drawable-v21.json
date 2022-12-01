@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "C:\\Users\\ziedh\\OneDrive\\Bureau\\accounting-app\\micro_entreprise\\folder\\micro_entreprise\\build\\multi_image_picker2\\intermediates\\res\\merged\\release\\drawable-v21\\notification_action_background.xml",
+        "source": "C:\\Users\\ziedh\\.gradle\\caches\\transforms-2\\files-2.1\\264d9551c65e454ca4a13f554e4afe35\\core-1.6.0\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\ziedh\\OneDrive\\Bureau\\accounting-app\\micro_entreprise\\folder\\micro_entreprise\\build\\multi_image_picker2\\intermediates\\res\\merged\\release\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\ziedh\\.gradle\\caches\\transforms-2\\files-2.1\\119c8bce0d0d622055f93c5824cab231\\appcompat-1.0.0\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\ziedh\\OneDrive\\Bureau\\accounting-app\\micro_entreprise\\folder\\micro_entreprise\\build\\multi_image_picker2\\intermediates\\res\\merged\\release\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\ziedh\\.gradle\\caches\\transforms-2\\files-2.1\\119c8bce0d0d622055f93c5824cab231\\appcompat-1.0.0\\res\\drawable-v21\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\ziedh\\OneDrive\\Bureau\\accounting-app\\micro_entreprise\\folder\\micro_entreprise\\build\\multi_image_picker2\\intermediates\\res\\merged\\release\\drawable-v21\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\ziedh\\.gradle\\caches\\transforms-2\\files-2.1\\119c8bce0d0d622055f93c5824cab231\\appcompat-1.0.0\\res\\drawable-v21\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\ziedh\\OneDrive\\Bureau\\accounting-app\\micro_entreprise\\folder\\micro_entreprise\\build\\multi_image_picker2\\intermediates\\res\\merged\\release\\drawable-v21\\design_bottom_navigation_item_background.xml",
+        "source": "C:\\Users\\ziedh\\.gradle\\caches\\transforms-2\\files-2.1\\5643ec8e5c570354dce224d34ab4c1ea\\material-1.0.0\\res\\drawable-v21\\design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\ziedh\\OneDrive\\Bureau\\accounting-app\\micro_entreprise\\folder\\micro_entreprise\\build\\multi_image_picker2\\intermediates\\res\\merged\\release\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Users\\ziedh\\.gradle\\caches\\transforms-2\\files-2.1\\119c8bce0d0d622055f93c5824cab231\\appcompat-1.0.0\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\ziedh\\OneDrive\\Bureau\\accounting-app\\micro_entreprise\\folder\\micro_entreprise\\build\\multi_image_picker2\\intermediates\\res\\merged\\release\\drawable-v21\\design_password_eye.xml",
+        "source": "C:\\Users\\ziedh\\.gradle\\caches\\transforms-2\\files-2.1\\5643ec8e5c570354dce224d34ab4c1ea\\material-1.0.0\\res\\drawable-v21\\design_password_eye.xml"
+    },
+    {
+        "merged": "C:\\Users\\ziedh\\OneDrive\\Bureau\\accounting-app\\micro_entreprise\\folder\\micro_entreprise\\build\\multi_image_picker2\\intermediates\\res\\merged\\release\\drawable-v21\\avd_show_password.xml",
+        "source": "C:\\Users\\ziedh\\.gradle\\caches\\transforms-2\\files-2.1\\5643ec8e5c570354dce224d34ab4c1ea\\material-1.0.0\\res\\drawable-v21\\avd_show_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\ziedh\\OneDrive\\Bureau\\accounting-app\\micro_entreprise\\folder\\micro_entreprise\\build\\multi_image_picker2\\intermediates\\res\\merged\\release\\drawable-v21\\abc_list_divider_material.xml",
+        "source": "C:\\Users\\ziedh\\.gradle\\caches\\transforms-2\\files-2.1\\119c8bce0d0d622055f93c5824cab231\\appcompat-1.0.0\\res\\drawable-v21\\abc_list_divider_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\ziedh\\OneDrive\\Bureau\\accounting-app\\micro_entreprise\\folder\\micro_entreprise\\build\\multi_image_picker2\\intermediates\\res\\merged\\release\\drawable-v21\\avd_hide_password.xml",
+        "source": "C:\\Users\\ziedh\\.gradle\\caches\\transforms-2\\files-2.1\\5643ec8e5c570354dce224d34ab4c1ea\\material-1.0.0\\res\\drawable-v21\\avd_hide_password.xml"
+    }
+]

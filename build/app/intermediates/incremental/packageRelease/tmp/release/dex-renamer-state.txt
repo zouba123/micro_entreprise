@@ -1,0 +1,4 @@
+#Fri Dec 02 00:25:37 CET 2022
+base.0=C\:\\Users\\ziedh\\OneDrive\\Bureau\\accounting-app\\micro_entreprise\\folder\\micro_entreprise\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

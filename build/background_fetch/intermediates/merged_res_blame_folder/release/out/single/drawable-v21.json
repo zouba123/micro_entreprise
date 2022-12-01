@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\ziedh\\OneDrive\\Bureau\\accounting-app\\micro_entreprise\\folder\\micro_entreprise\\build\\background_fetch\\intermediates\\res\\merged\\release\\drawable-v21\\notification_action_background.xml",
+        "source": "C:\\Users\\ziedh\\.gradle\\caches\\transforms-2\\files-2.1\\264d9551c65e454ca4a13f554e4afe35\\core-1.6.0\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\ziedh\\OneDrive\\Bureau\\accounting-app\\micro_entreprise\\folder\\micro_entreprise\\build\\background_fetch\\intermediates\\res\\merged\\release\\drawable-v21\\abc_dialog_material_background.xml",
+        "source": "C:\\Users\\ziedh\\.gradle\\caches\\transforms-2\\files-2.1\\ae1b2855b0c2c0b48dde672012ba9332\\appcompat-1.1.0\\res\\drawable-v21\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\ziedh\\OneDrive\\Bureau\\accounting-app\\micro_entreprise\\folder\\micro_entreprise\\build\\background_fetch\\intermediates\\res\\merged\\release\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Users\\ziedh\\.gradle\\caches\\transforms-2\\files-2.1\\ae1b2855b0c2c0b48dde672012ba9332\\appcompat-1.1.0\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\ziedh\\OneDrive\\Bureau\\accounting-app\\micro_entreprise\\folder\\micro_entreprise\\build\\background_fetch\\intermediates\\res\\merged\\release\\drawable-v21\\abc_list_divider_material.xml",
+        "source": "C:\\Users\\ziedh\\.gradle\\caches\\transforms-2\\files-2.1\\ae1b2855b0c2c0b48dde672012ba9332\\appcompat-1.1.0\\res\\drawable-v21\\abc_list_divider_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\ziedh\\OneDrive\\Bureau\\accounting-app\\micro_entreprise\\folder\\micro_entreprise\\build\\background_fetch\\intermediates\\res\\merged\\release\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\ziedh\\.gradle\\caches\\transforms-2\\files-2.1\\ae1b2855b0c2c0b48dde672012ba9332\\appcompat-1.1.0\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\ziedh\\OneDrive\\Bureau\\accounting-app\\micro_entreprise\\folder\\micro_entreprise\\build\\background_fetch\\intermediates\\res\\merged\\release\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\ziedh\\.gradle\\caches\\transforms-2\\files-2.1\\ae1b2855b0c2c0b48dde672012ba9332\\appcompat-1.1.0\\res\\drawable-v21\\abc_edit_text_material.xml"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "name": "English",
+        "title": "English",
+        "languageCode": "en",
+        "countryCode":"US",
+        "file": "en_US.json",
+        "symbol": "A"
+    },
+    {
+        "name": "Francais",
+        "title": "Francais",
+        "languageCode": "fr",
+        "countryCode":"FR",
+        "file": "fr_FR.json",
+        "symbol": "Fr"
+    },
+    {
+        "name": "Arabe",
+        "title": "Arabe",
+        "languageCode": "ar",
+        "countryCode":"AR",
+        "file": "ar_AR.json",
+        "symbol": "Ar"
+    }
+]

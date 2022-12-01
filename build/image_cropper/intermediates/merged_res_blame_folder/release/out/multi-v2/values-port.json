@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\ziedh\\OneDrive\\Bureau\\accounting-app\\micro_entreprise\\folder\\micro_entreprise\\build\\image_cropper\\intermediates\\res\\merged\\release\\values-port\\values-port.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\ziedh\\.gradle\\caches\\transforms-2\\files-2.1\\1c789169df83db1d5532be703f9b2e2b\\appcompat-1.3.0\\res\\values-port\\values-port.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\ziedh\\OneDrive\\Bureau\\accounting-app\\micro_entreprise\\folder\\micro_entreprise\\build\\image_cropper\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-port\\values-port.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\ziedh\\.gradle\\caches\\transforms-2\\files-2.1\\1c789169df83db1d5532be703f9b2e2b\\appcompat-1.3.0\\res\\values-port\\values-port.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        }
+    ]
+}

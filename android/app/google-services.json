@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "413825863572",
+    "project_id": "api-project-413825863572",
+    "storage_bucket": "api-project-413825863572.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:413825863572:android:a96b8f330a5a6505770981",
+        "android_client_info": {
+          "package_name": "com.ecoplus.gestion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "413825863572-vbbo8cgm5ldtcu1150cojp8u8h2tpttj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgbvADBWakJepUIIXHb56vRpvlZau22LI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "413825863572-vbbo8cgm5ldtcu1150cojp8u8h2tpttj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

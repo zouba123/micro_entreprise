@@ -1,0 +1,2 @@
+-keep class com.dexterous.** { *; }
+-keep class net.sqlcipher.** { *; }
