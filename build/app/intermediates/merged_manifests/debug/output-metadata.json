@@ -4,7 +4,7 @@
     "type": "MERGED_MANIFESTS",
     "kind": "Directory"
   },
-  "applicationId": "com.ecoplus.gestion",
+  "applicationId": "com.demo.accountingapp",
   "variantName": "debug",
   "elements": [
     {

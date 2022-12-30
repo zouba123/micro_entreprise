@@ -1,6 +1,6 @@
 1<?xml version="1.0" encoding="utf-8"?>
 2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
-3    package="com.ecoplus.gestion"
+3    package="com.demo.accountingapp"
 4    android:versionCode="13"
 5    android:versionName="2.0.0" >
 6
@@ -230,7 +230,7 @@
 129-->[:image_picker] C:\Users\ziedh\OneDrive\Bureau\accounting-app\micro_entreprise\folder\micro_entreprise\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-16:20
 130            android:name="io.flutter.plugins.imagepicker.ImagePickerFileProvider"
 130-->[:image_picker] C:\Users\ziedh\OneDrive\Bureau\accounting-app\micro_entreprise\folder\micro_entreprise\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:9:13-82
-131            android:authorities="com.ecoplus.gestion.flutter.image_provider"
+131            android:authorities="com.demo.accountingapp.flutter.image_provider"
 131-->[:image_picker] C:\Users\ziedh\OneDrive\Bureau\accounting-app\micro_entreprise\folder\micro_entreprise\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:10:13-74
 132            android:exported="false"
 132-->[:image_picker] C:\Users\ziedh\OneDrive\Bureau\accounting-app\micro_entreprise\folder\micro_entreprise\build\image_picker\intermediates\library_manifest\debug\AndroidManifest.xml:11:13-37
@@ -340,7 +340,7 @@
 186-->[:share] C:\Users\ziedh\OneDrive\Bureau\accounting-app\micro_entreprise\folder\micro_entreprise\build\share\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-16:20
 187            android:name="io.flutter.plugins.share.ShareFileProvider"
 187-->[:share] C:\Users\ziedh\OneDrive\Bureau\accounting-app\micro_entreprise\folder\micro_entreprise\build\share\intermediates\library_manifest\debug\AndroidManifest.xml:9:13-70
-188            android:authorities="com.ecoplus.gestion.flutter.share_provider"
+188            android:authorities="com.demo.accountingapp.flutter.share_provider"
 188-->[:share] C:\Users\ziedh\OneDrive\Bureau\accounting-app\micro_entreprise\folder\micro_entreprise\build\share\intermediates\library_manifest\debug\AndroidManifest.xml:10:13-74
 189            android:exported="false"
 189-->[:share] C:\Users\ziedh\OneDrive\Bureau\accounting-app\micro_entreprise\folder\micro_entreprise\build\share\intermediates\library_manifest\debug\AndroidManifest.xml:11:13-37
@@ -357,7 +357,7 @@
 195-->[:flutter_mailer] C:\Users\ziedh\OneDrive\Bureau\accounting-app\micro_entreprise\folder\micro_entreprise\build\flutter_mailer\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-16:20
 196            android:name="com.dataxad.flutter_mailer.FlutterMailerFileProvider"
 196-->[:flutter_mailer] C:\Users\ziedh\OneDrive\Bureau\accounting-app\micro_entreprise\folder\micro_entreprise\build\flutter_mailer\intermediates\library_manifest\debug\AndroidManifest.xml:9:13-80
-197            android:authorities="com.ecoplus.gestion.adv_provider"
+197            android:authorities="com.demo.accountingapp.adv_provider"
 197-->[:flutter_mailer] C:\Users\ziedh\OneDrive\Bureau\accounting-app\micro_entreprise\folder\micro_entreprise\build\flutter_mailer\intermediates\library_manifest\debug\AndroidManifest.xml:10:13-64
 198            android:exported="false"
 198-->[:flutter_mailer] C:\Users\ziedh\OneDrive\Bureau\accounting-app\micro_entreprise\folder\micro_entreprise\build\flutter_mailer\intermediates\library_manifest\debug\AndroidManifest.xml:11:13-37
@@ -374,7 +374,7 @@
 204-->[:printing] C:\Users\ziedh\OneDrive\Bureau\accounting-app\micro_entreprise\folder\micro_entreprise\build\printing\intermediates\library_manifest\debug\AndroidManifest.xml:8:9-16:20
 205            android:name="net.nfet.flutter.printing.PrintFileProvider"
 205-->[:printing] C:\Users\ziedh\OneDrive\Bureau\accounting-app\micro_entreprise\folder\micro_entreprise\build\printing\intermediates\library_manifest\debug\AndroidManifest.xml:9:13-71
-206            android:authorities="com.ecoplus.gestion.flutter.printing"
+206            android:authorities="com.demo.accountingapp.flutter.printing"
 206-->[:printing] C:\Users\ziedh\OneDrive\Bureau\accounting-app\micro_entreprise\folder\micro_entreprise\build\printing\intermediates\library_manifest\debug\AndroidManifest.xml:10:13-68
 207            android:exported="false"
 207-->[:printing] C:\Users\ziedh\OneDrive\Bureau\accounting-app\micro_entreprise\folder\micro_entreprise\build\printing\intermediates\library_manifest\debug\AndroidManifest.xml:11:13-37
@@ -391,7 +391,7 @@
 213-->[:open_file] C:\Users\ziedh\OneDrive\Bureau\accounting-app\micro_entreprise\folder\micro_entreprise\build\open_file\intermediates\library_manifest\debug\AndroidManifest.xml:12:9-21:20
 214            android:name="com.crazecoder.openfile.FileProvider"
 214-->[:open_file] C:\Users\ziedh\OneDrive\Bureau\accounting-app\micro_entreprise\folder\micro_entreprise\build\open_file\intermediates\library_manifest\debug\AndroidManifest.xml:13:13-64
-215            android:authorities="com.ecoplus.gestion.fileProvider.com.crazecoder.openfile"
+215            android:authorities="com.demo.accountingapp.fileProvider.com.crazecoder.openfile"
 215-->[:open_file] C:\Users\ziedh\OneDrive\Bureau\accounting-app\micro_entreprise\folder\micro_entreprise\build\open_file\intermediates\library_manifest\debug\AndroidManifest.xml:14:13-88
 216            android:exported="false"
 216-->[:open_file] C:\Users\ziedh\OneDrive\Bureau\accounting-app\micro_entreprise\folder\micro_entreprise\build\open_file\intermediates\library_manifest\debug\AndroidManifest.xml:15:13-37
@@ -482,7 +482,7 @@
 264-->[com.google.firebase:firebase-common:20.1.1] C:\Users\ziedh\.gradle\caches\transforms-2\files-2.1\1b09c5110e80e7f494447ef8b86f0eaf\jetified-firebase-common-20.1.1\AndroidManifest.xml:26:9-31:39
 265            android:name="com.google.firebase.provider.FirebaseInitProvider"
 265-->[com.google.firebase:firebase-common:20.1.1] C:\Users\ziedh\.gradle\caches\transforms-2\files-2.1\1b09c5110e80e7f494447ef8b86f0eaf\jetified-firebase-common-20.1.1\AndroidManifest.xml:27:13-77
-266            android:authorities="com.ecoplus.gestion.firebaseinitprovider"
+266            android:authorities="com.demo.accountingapp.firebaseinitprovider"
 266-->[com.google.firebase:firebase-common:20.1.1] C:\Users\ziedh\.gradle\caches\transforms-2\files-2.1\1b09c5110e80e7f494447ef8b86f0eaf\jetified-firebase-common-20.1.1\AndroidManifest.xml:28:13-72
 267            android:directBootAware="true"
 267-->[com.google.firebase:firebase-common:20.1.1] C:\Users\ziedh\.gradle\caches\transforms-2\files-2.1\1b09c5110e80e7f494447ef8b86f0eaf\jetified-firebase-common-20.1.1\AndroidManifest.xml:29:13-43
@@ -494,7 +494,7 @@
 270-->[com.sangcomz:FishBun:0.11.2] C:\Users\ziedh\.gradle\caches\transforms-2\files-2.1\d084962bbcc16607aecca43b46b93717\jetified-FishBun-0.11.2\AndroidManifest.xml:12:9-20:20
 271            android:name="com.sangcomz.fishbun.FishBunFileProvider"
 271-->[com.sangcomz:FishBun:0.11.2] C:\Users\ziedh\.gradle\caches\transforms-2\files-2.1\d084962bbcc16607aecca43b46b93717\jetified-FishBun-0.11.2\AndroidManifest.xml:13:13-68
-272            android:authorities="com.ecoplus.gestion.fishbunfileprovider"
+272            android:authorities="com.demo.accountingapp.fishbunfileprovider"
 272-->[com.sangcomz:FishBun:0.11.2] C:\Users\ziedh\.gradle\caches\transforms-2\files-2.1\d084962bbcc16607aecca43b46b93717\jetified-FishBun-0.11.2\AndroidManifest.xml:14:13-71
 273            android:exported="false"
 273-->[com.sangcomz:FishBun:0.11.2] C:\Users\ziedh\.gradle\caches\transforms-2\files-2.1\d084962bbcc16607aecca43b46b93717\jetified-FishBun-0.11.2\AndroidManifest.xml:15:13-37
@@ -529,27 +529,27 @@
 289            android:theme="@style/DetailViewTheme" />
 289-->[com.sangcomz:FishBun:0.11.2] C:\Users\ziedh\.gradle\caches\transforms-2\files-2.1\d084962bbcc16607aecca43b46b93717\jetified-FishBun-0.11.2\AndroidManifest.xml:31:13-51
 290        <activity
-290-->[com.google.android.gms:play-services-auth:16.0.1] C:\Users\ziedh\.gradle\caches\transforms-2\files-2.1\7ed3406c1322861a3d3868dd7254e920\jetified-play-services-auth-16.0.1\AndroidManifest.xml:23:9-27:75
+290-->[com.google.android.gms:play-services-auth:16.0.1] C:\Users\ziedh\.gradle\caches\transforms-2\files-2.1\3f3255d96d2689362d856eed8025a3d3\jetified-play-services-auth-16.0.1\AndroidManifest.xml:23:9-27:75
 291            android:name="com.google.android.gms.auth.api.signin.internal.SignInHubActivity"
-291-->[com.google.android.gms:play-services-auth:16.0.1] C:\Users\ziedh\.gradle\caches\transforms-2\files-2.1\7ed3406c1322861a3d3868dd7254e920\jetified-play-services-auth-16.0.1\AndroidManifest.xml:24:13-93
+291-->[com.google.android.gms:play-services-auth:16.0.1] C:\Users\ziedh\.gradle\caches\transforms-2\files-2.1\3f3255d96d2689362d856eed8025a3d3\jetified-play-services-auth-16.0.1\AndroidManifest.xml:24:13-93
 292            android:excludeFromRecents="true"
-292-->[com.google.android.gms:play-services-auth:16.0.1] C:\Users\ziedh\.gradle\caches\transforms-2\files-2.1\7ed3406c1322861a3d3868dd7254e920\jetified-play-services-auth-16.0.1\AndroidManifest.xml:25:13-46
+292-->[com.google.android.gms:play-services-auth:16.0.1] C:\Users\ziedh\.gradle\caches\transforms-2\files-2.1\3f3255d96d2689362d856eed8025a3d3\jetified-play-services-auth-16.0.1\AndroidManifest.xml:25:13-46
 293            android:exported="false"
-293-->[com.google.android.gms:play-services-auth:16.0.1] C:\Users\ziedh\.gradle\caches\transforms-2\files-2.1\7ed3406c1322861a3d3868dd7254e920\jetified-play-services-auth-16.0.1\AndroidManifest.xml:26:13-37
+293-->[com.google.android.gms:play-services-auth:16.0.1] C:\Users\ziedh\.gradle\caches\transforms-2\files-2.1\3f3255d96d2689362d856eed8025a3d3\jetified-play-services-auth-16.0.1\AndroidManifest.xml:26:13-37
 294            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
-294-->[com.google.android.gms:play-services-auth:16.0.1] C:\Users\ziedh\.gradle\caches\transforms-2\files-2.1\7ed3406c1322861a3d3868dd7254e920\jetified-play-services-auth-16.0.1\AndroidManifest.xml:27:13-72
+294-->[com.google.android.gms:play-services-auth:16.0.1] C:\Users\ziedh\.gradle\caches\transforms-2\files-2.1\3f3255d96d2689362d856eed8025a3d3\jetified-play-services-auth-16.0.1\AndroidManifest.xml:27:13-72
 295        <!--
 296            Service handling Google Sign-In user revocation. For apps that do not integrate with
 297            Google Sign-In, this service will never be started.
 298        -->
 299        <service
-299-->[com.google.android.gms:play-services-auth:16.0.1] C:\Users\ziedh\.gradle\caches\transforms-2\files-2.1\7ed3406c1322861a3d3868dd7254e920\jetified-play-services-auth-16.0.1\AndroidManifest.xml:33:9-36:110
+299-->[com.google.android.gms:play-services-auth:16.0.1] C:\Users\ziedh\.gradle\caches\transforms-2\files-2.1\3f3255d96d2689362d856eed8025a3d3\jetified-play-services-auth-16.0.1\AndroidManifest.xml:33:9-36:110
 300            android:name="com.google.android.gms.auth.api.signin.RevocationBoundService"
-300-->[com.google.android.gms:play-services-auth:16.0.1] C:\Users\ziedh\.gradle\caches\transforms-2\files-2.1\7ed3406c1322861a3d3868dd7254e920\jetified-play-services-auth-16.0.1\AndroidManifest.xml:34:13-89
+300-->[com.google.android.gms:play-services-auth:16.0.1] C:\Users\ziedh\.gradle\caches\transforms-2\files-2.1\3f3255d96d2689362d856eed8025a3d3\jetified-play-services-auth-16.0.1\AndroidManifest.xml:34:13-89
 301            android:exported="true"
-301-->[com.google.android.gms:play-services-auth:16.0.1] C:\Users\ziedh\.gradle\caches\transforms-2\files-2.1\7ed3406c1322861a3d3868dd7254e920\jetified-play-services-auth-16.0.1\AndroidManifest.xml:35:13-36
+301-->[com.google.android.gms:play-services-auth:16.0.1] C:\Users\ziedh\.gradle\caches\transforms-2\files-2.1\3f3255d96d2689362d856eed8025a3d3\jetified-play-services-auth-16.0.1\AndroidManifest.xml:35:13-36
 302            android:permission="com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION" />
-302-->[com.google.android.gms:play-services-auth:16.0.1] C:\Users\ziedh\.gradle\caches\transforms-2\files-2.1\7ed3406c1322861a3d3868dd7254e920\jetified-play-services-auth-16.0.1\AndroidManifest.xml:36:13-107
+302-->[com.google.android.gms:play-services-auth:16.0.1] C:\Users\ziedh\.gradle\caches\transforms-2\files-2.1\3f3255d96d2689362d856eed8025a3d3\jetified-play-services-auth-16.0.1\AndroidManifest.xml:36:13-107
 303
 304        <activity
 304-->[com.google.android.gms:play-services-base:17.1.0] C:\Users\ziedh\.gradle\caches\transforms-2\files-2.1\bb3c76479db8c31385b208fa0cd094a6\jetified-play-services-base-17.1.0\AndroidManifest.xml:23:9-26:75
@@ -571,7 +571,7 @@
 313-->[androidx.emoji2:emoji2:1.0.0] C:\Users\ziedh\.gradle\caches\transforms-2\files-2.1\dbb3098dffa282f8744114530eac76ad\jetified-emoji2-1.0.0\AndroidManifest.xml:26:9-34:20
 314            android:name="androidx.startup.InitializationProvider"
 314-->[androidx.emoji2:emoji2:1.0.0] C:\Users\ziedh\.gradle\caches\transforms-2\files-2.1\dbb3098dffa282f8744114530eac76ad\jetified-emoji2-1.0.0\AndroidManifest.xml:27:13-67
-315            android:authorities="com.ecoplus.gestion.androidx-startup"
+315            android:authorities="com.demo.accountingapp.androidx-startup"
 315-->[androidx.emoji2:emoji2:1.0.0] C:\Users\ziedh\.gradle\caches\transforms-2\files-2.1\dbb3098dffa282f8744114530eac76ad\jetified-emoji2-1.0.0\AndroidManifest.xml:28:13-68
 316            android:exported="false" >
 316-->[androidx.emoji2:emoji2:1.0.0] C:\Users\ziedh\.gradle\caches\transforms-2\files-2.1\dbb3098dffa282f8744114530eac76ad\jetified-emoji2-1.0.0\AndroidManifest.xml:29:13-37

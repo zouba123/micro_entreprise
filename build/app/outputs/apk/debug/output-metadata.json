@@ -4,7 +4,7 @@
     "type": "APK",
     "kind": "Directory"
   },
-  "applicationId": "com.ecoplus.gestion",
+  "applicationId": "com.demo.accountingapp",
   "variantName": "processDebugResources",
   "elements": [
     {

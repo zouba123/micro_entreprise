@@ -50,8 +50,8 @@ MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\ziedh\.gradle\ca
 MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\ziedh\.gradle\caches\transforms-2\files-2.1\b53cee0a414c669aac64820562a8ebb5\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] C:\Users\ziedh\.gradle\caches\transforms-2\files-2.1\ec5d876150c1b8f99617da4c0d184c5e\swiperefreshlayout-1.1.0\AndroidManifest.xml:17:1-24:12
 MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\ziedh\.gradle\caches\transforms-2\files-2.1\5aa9538e021ab62cbc3b0c43f79f3182\jetified-glide-4.11.0\AndroidManifest.xml:2:1-12:12
-MERGED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\ziedh\.gradle\caches\transforms-2\files-2.1\7ed3406c1322861a3d3868dd7254e920\jetified-play-services-auth-16.0.1\AndroidManifest.xml:17:1-39:12
-MERGED from [com.google.android.gms:play-services-auth-base:16.0.0] C:\Users\ziedh\.gradle\caches\transforms-2\files-2.1\68260b57f37fbeb054bd685035c7f0c6\jetified-play-services-auth-base-16.0.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\ziedh\.gradle\caches\transforms-2\files-2.1\3f3255d96d2689362d856eed8025a3d3\jetified-play-services-auth-16.0.1\AndroidManifest.xml:17:1-39:12
+MERGED from [com.google.android.gms:play-services-auth-base:16.0.0] C:\Users\ziedh\.gradle\caches\transforms-2\files-2.1\9f2aaad6549b8b6918d4e61abdaed684\jetified-play-services-auth-base-16.0.0\AndroidManifest.xml:2:1-7:12
 MERGED from [com.google.android.gms:play-services-auth-api-phone:17.4.0] C:\Users\ziedh\.gradle\caches\transforms-2\files-2.1\1b71887c6bfa2fef7b3003b608ce4e9e\jetified-play-services-auth-api-phone-17.4.0\AndroidManifest.xml:2:1-7:12
 MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] C:\Users\ziedh\.gradle\caches\transforms-2\files-2.1\0bd243492535ff8ae22da59526257ca2\jetified-play-services-safetynet-17.0.0\AndroidManifest.xml:17:1-24:12
 MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\ziedh\.gradle\caches\transforms-2\files-2.1\bb3c76479db8c31385b208fa0cd094a6\jetified-play-services-base-17.1.0\AndroidManifest.xml:17:1-29:12
@@ -224,8 +224,8 @@ MERGED from [com.google.android.material:material:1.0.0] C:\Users\ziedh\.gradle\
 MERGED from [com.google.android.material:material:1.0.0] C:\Users\ziedh\.gradle\caches\transforms-2\files-2.1\5643ec8e5c570354dce224d34ab4c1ea\material-1.0.0\AndroidManifest.xml:22:5-20
 MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\ziedh\.gradle\caches\transforms-2\files-2.1\5aa9538e021ab62cbc3b0c43f79f3182\jetified-glide-4.11.0\AndroidManifest.xml:10:5-20
 MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\ziedh\.gradle\caches\transforms-2\files-2.1\5aa9538e021ab62cbc3b0c43f79f3182\jetified-glide-4.11.0\AndroidManifest.xml:10:5-20
-MERGED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\ziedh\.gradle\caches\transforms-2\files-2.1\7ed3406c1322861a3d3868dd7254e920\jetified-play-services-auth-16.0.1\AndroidManifest.xml:22:5-37:19
-MERGED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\ziedh\.gradle\caches\transforms-2\files-2.1\7ed3406c1322861a3d3868dd7254e920\jetified-play-services-auth-16.0.1\AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\ziedh\.gradle\caches\transforms-2\files-2.1\3f3255d96d2689362d856eed8025a3d3\jetified-play-services-auth-16.0.1\AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\ziedh\.gradle\caches\transforms-2\files-2.1\3f3255d96d2689362d856eed8025a3d3\jetified-play-services-auth-16.0.1\AndroidManifest.xml:22:5-37:19
 MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] C:\Users\ziedh\.gradle\caches\transforms-2\files-2.1\0bd243492535ff8ae22da59526257ca2\jetified-play-services-safetynet-17.0.0\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] C:\Users\ziedh\.gradle\caches\transforms-2\files-2.1\0bd243492535ff8ae22da59526257ca2\jetified-play-services-safetynet-17.0.0\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\ziedh\.gradle\caches\transforms-2\files-2.1\bb3c76479db8c31385b208fa0cd094a6\jetified-play-services-base-17.1.0\AndroidManifest.xml:22:5-27:19
@@ -412,10 +412,10 @@ MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] C:\Users\zied
 MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.1.0] C:\Users\ziedh\.gradle\caches\transforms-2\files-2.1\ec5d876150c1b8f99617da4c0d184c5e\swiperefreshlayout-1.1.0\AndroidManifest.xml:20:5-22:41
 MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\ziedh\.gradle\caches\transforms-2\files-2.1\5aa9538e021ab62cbc3b0c43f79f3182\jetified-glide-4.11.0\AndroidManifest.xml:6:5-8:41
 MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\ziedh\.gradle\caches\transforms-2\files-2.1\5aa9538e021ab62cbc3b0c43f79f3182\jetified-glide-4.11.0\AndroidManifest.xml:6:5-8:41
-MERGED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\ziedh\.gradle\caches\transforms-2\files-2.1\7ed3406c1322861a3d3868dd7254e920\jetified-play-services-auth-16.0.1\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\ziedh\.gradle\caches\transforms-2\files-2.1\7ed3406c1322861a3d3868dd7254e920\jetified-play-services-auth-16.0.1\AndroidManifest.xml:20:5-44
-MERGED from [com.google.android.gms:play-services-auth-base:16.0.0] C:\Users\ziedh\.gradle\caches\transforms-2\files-2.1\68260b57f37fbeb054bd685035c7f0c6\jetified-play-services-auth-base-16.0.0\AndroidManifest.xml:5:5-44
-MERGED from [com.google.android.gms:play-services-auth-base:16.0.0] C:\Users\ziedh\.gradle\caches\transforms-2\files-2.1\68260b57f37fbeb054bd685035c7f0c6\jetified-play-services-auth-base-16.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\ziedh\.gradle\caches\transforms-2\files-2.1\3f3255d96d2689362d856eed8025a3d3\jetified-play-services-auth-16.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\ziedh\.gradle\caches\transforms-2\files-2.1\3f3255d96d2689362d856eed8025a3d3\jetified-play-services-auth-16.0.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:16.0.0] C:\Users\ziedh\.gradle\caches\transforms-2\files-2.1\9f2aaad6549b8b6918d4e61abdaed684\jetified-play-services-auth-base-16.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:16.0.0] C:\Users\ziedh\.gradle\caches\transforms-2\files-2.1\9f2aaad6549b8b6918d4e61abdaed684\jetified-play-services-auth-base-16.0.0\AndroidManifest.xml:5:5-44
 MERGED from [com.google.android.gms:play-services-auth-api-phone:17.4.0] C:\Users\ziedh\.gradle\caches\transforms-2\files-2.1\1b71887c6bfa2fef7b3003b608ce4e9e\jetified-play-services-auth-api-phone-17.4.0\AndroidManifest.xml:5:5-44
 MERGED from [com.google.android.gms:play-services-auth-api-phone:17.4.0] C:\Users\ziedh\.gradle\caches\transforms-2\files-2.1\1b71887c6bfa2fef7b3003b608ce4e9e\jetified-play-services-auth-api-phone-17.4.0\AndroidManifest.xml:5:5-44
 MERGED from [com.google.android.gms:play-services-safetynet:17.0.0] C:\Users\ziedh\.gradle\caches\transforms-2\files-2.1\0bd243492535ff8ae22da59526257ca2\jetified-play-services-safetynet-17.0.0\AndroidManifest.xml:20:5-44
@@ -859,23 +859,23 @@ ADDED from [com.sangcomz:FishBun:0.11.2] C:\Users\ziedh\.gradle\caches\transform
 	android:name
 		ADDED from [com.sangcomz:FishBun:0.11.2] C:\Users\ziedh\.gradle\caches\transforms-2\files-2.1\d084962bbcc16607aecca43b46b93717\jetified-FishBun-0.11.2\AndroidManifest.xml:30:13-73
 activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
-ADDED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\ziedh\.gradle\caches\transforms-2\files-2.1\7ed3406c1322861a3d3868dd7254e920\jetified-play-services-auth-16.0.1\AndroidManifest.xml:23:9-27:75
+ADDED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\ziedh\.gradle\caches\transforms-2\files-2.1\3f3255d96d2689362d856eed8025a3d3\jetified-play-services-auth-16.0.1\AndroidManifest.xml:23:9-27:75
 	android:excludeFromRecents
-		ADDED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\ziedh\.gradle\caches\transforms-2\files-2.1\7ed3406c1322861a3d3868dd7254e920\jetified-play-services-auth-16.0.1\AndroidManifest.xml:25:13-46
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\ziedh\.gradle\caches\transforms-2\files-2.1\3f3255d96d2689362d856eed8025a3d3\jetified-play-services-auth-16.0.1\AndroidManifest.xml:25:13-46
 	android:exported
-		ADDED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\ziedh\.gradle\caches\transforms-2\files-2.1\7ed3406c1322861a3d3868dd7254e920\jetified-play-services-auth-16.0.1\AndroidManifest.xml:26:13-37
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\ziedh\.gradle\caches\transforms-2\files-2.1\3f3255d96d2689362d856eed8025a3d3\jetified-play-services-auth-16.0.1\AndroidManifest.xml:26:13-37
 	android:theme
-		ADDED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\ziedh\.gradle\caches\transforms-2\files-2.1\7ed3406c1322861a3d3868dd7254e920\jetified-play-services-auth-16.0.1\AndroidManifest.xml:27:13-72
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\ziedh\.gradle\caches\transforms-2\files-2.1\3f3255d96d2689362d856eed8025a3d3\jetified-play-services-auth-16.0.1\AndroidManifest.xml:27:13-72
 	android:name
-		ADDED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\ziedh\.gradle\caches\transforms-2\files-2.1\7ed3406c1322861a3d3868dd7254e920\jetified-play-services-auth-16.0.1\AndroidManifest.xml:24:13-93
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\ziedh\.gradle\caches\transforms-2\files-2.1\3f3255d96d2689362d856eed8025a3d3\jetified-play-services-auth-16.0.1\AndroidManifest.xml:24:13-93
 service#com.google.android.gms.auth.api.signin.RevocationBoundService
-ADDED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\ziedh\.gradle\caches\transforms-2\files-2.1\7ed3406c1322861a3d3868dd7254e920\jetified-play-services-auth-16.0.1\AndroidManifest.xml:33:9-36:110
+ADDED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\ziedh\.gradle\caches\transforms-2\files-2.1\3f3255d96d2689362d856eed8025a3d3\jetified-play-services-auth-16.0.1\AndroidManifest.xml:33:9-36:110
 	android:exported
-		ADDED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\ziedh\.gradle\caches\transforms-2\files-2.1\7ed3406c1322861a3d3868dd7254e920\jetified-play-services-auth-16.0.1\AndroidManifest.xml:35:13-36
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\ziedh\.gradle\caches\transforms-2\files-2.1\3f3255d96d2689362d856eed8025a3d3\jetified-play-services-auth-16.0.1\AndroidManifest.xml:35:13-36
 	android:permission
-		ADDED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\ziedh\.gradle\caches\transforms-2\files-2.1\7ed3406c1322861a3d3868dd7254e920\jetified-play-services-auth-16.0.1\AndroidManifest.xml:36:13-107
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\ziedh\.gradle\caches\transforms-2\files-2.1\3f3255d96d2689362d856eed8025a3d3\jetified-play-services-auth-16.0.1\AndroidManifest.xml:36:13-107
 	android:name
-		ADDED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\ziedh\.gradle\caches\transforms-2\files-2.1\7ed3406c1322861a3d3868dd7254e920\jetified-play-services-auth-16.0.1\AndroidManifest.xml:34:13-89
+		ADDED from [com.google.android.gms:play-services-auth:16.0.1] C:\Users\ziedh\.gradle\caches\transforms-2\files-2.1\3f3255d96d2689362d856eed8025a3d3\jetified-play-services-auth-16.0.1\AndroidManifest.xml:34:13-89
 activity#com.google.android.gms.common.api.GoogleApiActivity
 ADDED from [com.google.android.gms:play-services-base:17.1.0] C:\Users\ziedh\.gradle\caches\transforms-2\files-2.1\bb3c76479db8c31385b208fa0cd094a6\jetified-play-services-base-17.1.0\AndroidManifest.xml:23:9-26:75
 	android:exported

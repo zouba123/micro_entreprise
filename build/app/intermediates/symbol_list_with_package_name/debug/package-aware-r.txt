@@ -1787,7 +1787,6 @@ string common_signin_button_text_long
 string confirm_device_credential_password
 string copy_toast_msg
 string default_error_msg
-string default_web_client_id
 string done
 string done_all
 string fab_transformation_scrim_behavior
@@ -1802,14 +1801,9 @@ string fingerprint_error_lockout
 string fingerprint_error_no_fingerprints
 string fingerprint_error_user_canceled
 string fingerprint_not_recognized
-string gcm_defaultSenderId
 string generic_error_no_device_credential
 string generic_error_no_keyguard
 string generic_error_user_canceled
-string google_api_key
-string google_app_id
-string google_crash_reporting_api_key
-string google_storage_bucket
 string hide_bottom_view_on_scroll_behavior
 string image
 string library_android_database_sqlcipher_author
@@ -1834,7 +1828,6 @@ string path_password_eye
 string path_password_eye_mask_strike_through
 string path_password_eye_mask_visible
 string path_password_strike_through
-string project_id
 string search_menu_title
 string status_bar_notification_info_overflow
 string str_all_view
